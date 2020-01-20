@@ -1,4 +1,4 @@
-# 20191110_lancaster
+# 20191207 Johnstown
 Videos of autonomous from Johnstown 2019 (West Central PA Qualifier)
 
 Match details can be found here: http://www.ftcpenn.org/ftc-events/2019-2020-season/west-central-pennsylvania-qualifier
