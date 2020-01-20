@@ -20,7 +20,7 @@ winning alliance captain.
 ## Q21
 
 ## Q27
-** 5/5 Points ** We did not detecte a Skystone and we ran into our alliance partner. We managed to navigate.
+** 5/5 Points ** We did not detect a Skystone and we ran into our alliance partner. We managed to navigate.
 
 ## SF2-1
 ** 5/30 Points ** We tried and failed to move the foundation. We navigated.
